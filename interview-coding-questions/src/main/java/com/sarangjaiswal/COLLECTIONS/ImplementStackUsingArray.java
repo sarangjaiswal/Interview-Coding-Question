@@ -1,4 +1,4 @@
-package com.sarangjaiswal;
+package com.sarangjaiswal.COLLECTIONS;
 
 // Question:  Implement a stack using array.
 // You need to implement Stack using array. You need to write push and pop methods to demonstrate Stack behavior(Last In First Out).

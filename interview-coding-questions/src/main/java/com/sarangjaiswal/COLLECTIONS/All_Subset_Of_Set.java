@@ -1,4 +1,4 @@
-package com.sarangjaiswal;
+package com.sarangjaiswal.COLLECTIONS;
 
 public class All_Subset_Of_Set {
 	// Source: https://www.youtube.com/watch?v=bGC2fNALbNU

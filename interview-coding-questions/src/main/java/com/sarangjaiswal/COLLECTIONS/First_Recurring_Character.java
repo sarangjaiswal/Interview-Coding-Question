@@ -1,4 +1,4 @@
-package com.sarangjaiswal;
+package com.sarangjaiswal.COLLECTIONS;
 
 import java.util.Hashtable;
 

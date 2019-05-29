@@ -1,4 +1,4 @@
-package com.sarangjaiswal;
+package com.sarangjaiswal.COLLECTIONS;
 
 import org.junit.Assert;
 import org.junit.Test;
