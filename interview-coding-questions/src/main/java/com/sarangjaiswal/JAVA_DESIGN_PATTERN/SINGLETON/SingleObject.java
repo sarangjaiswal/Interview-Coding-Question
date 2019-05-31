@@ -2,6 +2,7 @@ package com.sarangjaiswal.JAVA_DESIGN_PATTERN.SINGLETON;
 
 // STEP 1: Create a SingleObject Class
 public class SingleObject {
+	
 	// STEP 2: Create an object of SingleObject which is private
 	private static SingleObject instance = new SingleObject();
 	
@@ -17,7 +18,4 @@ public class SingleObject {
 	public void showMessage() {
 		System.out.println("Hello");
 	}
-	
-	
-
 }
